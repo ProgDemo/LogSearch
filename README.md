@@ -1,1 +1,3 @@
 # LogSearch
+
+Logaritmikus keresés algoritmusa.
